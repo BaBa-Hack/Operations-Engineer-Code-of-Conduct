@@ -31,6 +31,7 @@ According to the weekly report , both you and I can compare your personal skill 
 The score weight for uncommon tasks will be determined based on the specific circumstances
 ## 0.25
 * Withdrawal Confirm
+* Account detail Check
 
 ## 0.5  
 * Admin relate action
