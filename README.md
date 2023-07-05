@@ -29,6 +29,8 @@ According to the weekly report , both you and I can compare your personal skill 
 
 ## The common task score weight definitions are as follows (more will be added gradually based on observations, and contributions are welcome):
 The score weight for uncommon tasks will be determined based on the specific circumstances
+
+## If the task process too slow , got complained and bad feedback will not received score.
 ## 0.25
 * Withdrawal Confirm
 * Account detail Check
@@ -41,7 +43,8 @@ The score weight for uncommon tasks will be determined based on the specific cir
 * Easy Frontend developement
 * Easy Backend development
 * Application crush and error proceed
-* Network security issue 
+* Network security issue
+* Payment Method
 ## 1
 * Platform delopyment
 * Api matching
