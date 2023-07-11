@@ -21,7 +21,11 @@ The detail of the task you have done :
 * MM Project : https://docs.google.com/spreadsheets/d/1L-RPgnEiD4A5pWa8f4KtYaYo9THjJxUAifb0mkIMytI/edit?usp=sharing
 * Shifting : https://docs.google.com/spreadsheets/d/14hyYKf3RAafkdORc3BlSumMS4JAULtD2hEiXk586SOs/edit?usp=sharing
 
+## Project Knowlodge Sharing 
+
+
 ## Weekly meeting 
+
 Weekly meeting **Every Tuesday 3:00 pm** , Every Tuesday we will hold a regular meeting, where each engineer must give an oral report. The report must include the work have done in the project team over the past week, any thoughts wish to share, and also encouraged to express your own opinions regarding the project team and the overall team.
 
 ### Promotion
