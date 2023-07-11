@@ -20,6 +20,7 @@ The detail of the task you have done :
 * CN Project : https://docs.google.com/spreadsheets/d/1Tb-cwjFpUFa6eFhSa5cKqNNUIOxjABoLIIV3uNxBOdM/edit?usp=sharing
 * MM Project : https://docs.google.com/spreadsheets/d/1L-RPgnEiD4A5pWa8f4KtYaYo9THjJxUAifb0mkIMytI/edit?usp=sharing
 * Shifting : https://docs.google.com/spreadsheets/d/14hyYKf3RAafkdORc3BlSumMS4JAULtD2hEiXk586SOs/edit?usp=sharing
+* Tech Record Table: https://docs.google.com/spreadsheets/d/16WTwdZ9nG-5Xs8aLbcrn_uKelBNwkhSEosElYvNHjQo/edit?usp=sharing
 
 ## Project Knowlodge Sharing 
 
